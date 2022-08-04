@@ -75,8 +75,8 @@ banner() {
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-                ${BLUE} ▀▄▀   █▀█ █░█ ▄▀█ █▄░█ ▀█▀ █▀█ █▀▄▀█
-                ${BLUE} █░█   █▀▀ █▀█ █▀█ █░▀█ ░█░ █▄█ █░▀░█
+                ${BLUE} ▀▄▀   █▀█
+                ${BLUE} █░█   █▀▀ 
 		${RED}  ASH UCHIHA 〽️ [ASH AKA]
 	EOF
 }
