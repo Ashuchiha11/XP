@@ -64,11 +64,11 @@ banner() {
                 ${BLUE}╋┏┛┗┓┃┏━━┫┏┓┣┫━━┫┏┓┃┃━┫┏┛
                 ${BLUE}┏┛┏┓┗┫┃╋╋┃┃┃┃┣━━┃┃┃┃┃━┫┃
                 ${BLUE}┗━┛┗━┻┛╋╋┗┛┗┻┻━━┻┛┗┻━━┻┛             
-                ${RED} X PH4N70M (X PHANTOM)
+                ${RED} ASH UCHIHA 〽️ (IT'Z ME ASH)
                                                   
 		${CYAN}Version : 2.2 
 		
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by X PHANTOM (X PH4N70M)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ASH UCHIHA 〽️ (ASH AKA )${WHITE}
 	EOF
 }
 
@@ -77,7 +77,7 @@ banner_small() {
 	cat <<- EOF
                 ${BLUE} ▀▄▀   █▀█ █░█ ▄▀█ █▄░█ ▀█▀ █▀█ █▀▄▀█
                 ${BLUE} █░█   █▀▀ █▀█ █▀█ █░▀█ ░█░ █▄█ █░▀░█
-		${RED}  X PHANTOM [PH4N70M]
+		${RED}  ASH UCHIHA 〽️ [ASH AKA]
 	EOF
 }
 
